@@ -1,0 +1,1 @@
+<h4 align="center">Paste your Solutions Here: Remember you must have followed all the Guidelines mentioned in <a href="https://github.com/dscuietkuk/DSA/blob/master/DSA%20Marathon/CONTRIBUTING.md">CONTRIBUTING.md</a> file.</h4>
